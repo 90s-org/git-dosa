@@ -3,4 +3,5 @@
 ## Egg Dosa
 * Dosa batter
 * Oil
-* 1 Egg
+* 1/2 Eggs
+
