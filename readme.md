@@ -5,3 +5,7 @@
 * Oil
 * 1/2 Eggs
 
+## Panner Dosa
+* Dosa Batter
+* Tomato paste
+
